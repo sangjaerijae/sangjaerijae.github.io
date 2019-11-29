@@ -1,0 +1,19 @@
+site_name: My Docs
+theme: readthedocs
+extra_css:
+        - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+        - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+        - "css/custom.css"
+
+extra:
+    font:
+        text: "Noto Sans JP"
+        code: "Consolas"
+    palette:
+        primary: "indigo"
+        accent: "red"
+
+markdown_extensions:
+    - mdx_math
+extra_javascript:
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
