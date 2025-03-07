@@ -1,0 +1,77 @@
+{
+    "name": "Sangjae Oh",
+    "title": "Data Engineer | AI Enthusiast | Cloud & Analytics Specialist",
+    "summary": "Passionate about solving complex data challenges with scalable cloud solutions and AI-driven insights.",
+    
+    "skills": {
+        "Data Engineering": [
+            "ETL Pipeline Optimization",
+            "Data Automation",
+            "DBT & Apache Spark",
+            "SQL & NoSQL Databases"
+        ],
+        "Cloud & Architecture": [
+            "AWS (S3, Glue, Lambda, RDS, Redshift)",
+            "IBM Cloud Pak for Data",
+            "Zero Trust Architecture",
+            "Infrastructure as Code (Terraform)"
+        ],
+        "AI & Machine Learning": [
+            "Data Preprocessing for AI",
+            "Model Deployment (MLOps)",
+            "AutoML with DataRobot",
+            "Feature Engineering"
+        ],
+        "Problem-Solving & Consulting": [
+            "Enterprise Data Strategy",
+            "Technical Account Management",
+            "Security & Compliance Consulting",
+            "Cross-functional Collaboration"
+        ]
+    },
+    
+    "experience": {
+        "IBM Japan": {
+            "role": "Technical Account Manager",
+            "duration": "2022 - 2024",
+            "achievements": [
+                "Led Cloud Pak for Data migration for enterprise AI adoption",
+                "Designed microsegmentation & continuous monitoring for Zero Trust",
+                "Consulted on AI governance & compliance for regulated industries"
+            ]
+        },
+        "SBI Holdings": {
+            "role": "Data Engineer / Project Leader",
+            "duration": "2014 - 2022",
+            "achievements": [
+                "Integrated enterprise-wide data pipelines to break data silos",
+                "Implemented AutoML solutions to support financial analysts",
+                "Developed a governance framework for secure data operations"
+            ]
+        },
+        "Quollio": {
+            "role": "Implementation Support Engineer",
+            "duration": "2024",
+            "achievements": [
+                "Configured cloud-based data catalog for governance automation",
+                "Optimized data lineage tracking for better compliance",
+                "Provided hands-on support for enterprise data discovery"
+            ]
+        }
+    },
+    
+    "tech_philosophy": {
+        "motto": "Data-driven solutions should be scalable, secure, and insightful.",
+        "principles": [
+            "Understand the business before designing the architecture.",
+            "Automation reduces human error and improves efficiency.",
+            "Data security and compliance are as important as performance."
+        ]
+    },
+    
+    "contact": {
+        "GitHub": "https://github.com/sangjaeoh",
+        "LinkedIn": "https://www.linkedin.com/in/sangjaeoh",
+        "Portfolio": "https://sangjaeoh.github.io"
+    }
+}
